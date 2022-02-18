@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: acme.nfs_server
+  role_name: nfs_server
   author: Felipe Pastore Costa
   description: Instalacao e Configuracao do servidor NFS
   company: B3
