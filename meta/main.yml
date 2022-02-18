@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  role_name: acme.nfs_server
+  author: Felipe Pastore Costa
+  description: Instalacao e Configuracao do servidor NFS
+  company: B3
+  license: GPLv3
+  min_ansible_version: 2.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - 20.04
+  - name: CentOS
+    versions:
+    - 8
+  galaxy_tags:
+    - nfs
+dependencies: []
